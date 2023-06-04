@@ -4,7 +4,7 @@ I am Java backend developer
 
 Skills:
 
-Framewroks and Libriries:
+Frameworks and Libraries:
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
